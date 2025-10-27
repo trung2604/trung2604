@@ -54,7 +54,7 @@ GitHub, Postman, Docker, VS Code, IntelliJ IDEA, Wireshark, Jenkins, Render
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 <a href="mailto:dodinhtrungthptyv@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  <img align="center" src="https://th.bing.com/th/id/OIP.0h4TQl-kO-nl7gooZmkbbAHaFj?w=254&h=190&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="gmail" height="30" width="40" />
 </a>
 <a href="https://github.com/trung2604" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
